@@ -1,0 +1,38 @@
+body {
+    background-color: orange;
+}
+
+.square {
+    width:30%;
+    background: green;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.6%;
+    border-radius: 15%;
+}
+
+#container {
+    margin: 0 auto;
+    max-width:400px;
+}
+#message
+    {width: 30%;
+        margin: 0 auto;
+    text-align: center;
+	background: green;
+	border:1px solid black;
+
+
+}
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    background: orangered;
+	border:1px solid black;
+	
+}
+.selected{
+	background:"blue";
+	 
+	
+}
